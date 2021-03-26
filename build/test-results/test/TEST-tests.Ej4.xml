@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.Ej4" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-26T13:05:23" hostname="LAPTOP-4CABPQ75" time="25.462">
+  <properties/>
+  <testcase name="verifySetAlarm" classname="tests.Ej4" time="25.462"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[mar 26, 2021 9:05:42 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>

@@ -11,8 +11,8 @@ public class Ej2 {
     MainPage mainPage = new MainPage();
     PricipalPage pricipalPage = new PricipalPage();
     String email = "mautest@mautest.com";
-    String pwd = "1234";
-    String newpwd = "12345";
+    String pwd = "12345";
+    String newpwd = "1234";
 
     @Test
     public void verifyChangePwd() throws InterruptedException {
