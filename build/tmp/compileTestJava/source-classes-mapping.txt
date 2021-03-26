@@ -1,0 +1,62 @@
+controlsAppium/TextBox.java
+ controlsAppium.TextBox
+factoryDevices/FactoryDevices.java
+ factoryDevices.FactoryDevices
+factoryBrowser/IBrowser.java
+ factoryBrowser.IBrowser
+controlsWeb/AlertControl.java
+ controlsWeb.AlertControl
+controlsWeb/Image.java
+ controlsWeb.Image
+controlsAppium/ControlAppium.java
+ controlsAppium.ControlAppium
+factoryBrowser/Edge.java
+ factoryBrowser.Edge
+controlsAppium/Button.java
+ controlsAppium.Button
+pomPages/CenterSection.java
+ pomPages.CenterSection
+controlsWeb/Button.java
+ controlsWeb.Button
+controlsWeb/TextBox.java
+ controlsWeb.TextBox
+factoryDevices/Android.java
+ factoryDevices.Android
+factoryDevices/WindowsPhone.java
+ factoryDevices.WindowsPhone
+pomPages/LeftSection.java
+ pomPages.LeftSection
+factoryBrowser/FireFox.java
+ factoryBrowser.FireFox
+sessionAppium/Session.java
+ sessionAppium.Session
+pomPages/LoginModal.java
+ pomPages.LoginModal
+controlsAppium/CheckBox.java
+ controlsAppium.CheckBox
+pomPages/MainPage.java
+ pomPages.MainPage
+factoryBrowser/FactoryBrowser.java
+ factoryBrowser.FactoryBrowser
+helpers/CompararJsons.java
+ helpers.CompararJsons
+pomPages/MenuSection.java
+ pomPages.MenuSection
+factoryDevices/IOS.java
+ factoryDevices.IOS
+sessionWeb/Session.java
+ sessionWeb.Session
+factoryBrowser/Chrome.java
+ factoryBrowser.Chrome
+tests/Ej4UI.java
+ tests.Ej4UI
+controlsWeb/Label.java
+ controlsWeb.Label
+controlsWeb/Control.java
+ controlsWeb.Control
+factoryBrowser/BrowserStack.java
+ factoryBrowser.BrowserStack
+factoryDevices/IDevices.java
+ factoryDevices.IDevices
+controlsAppium/Label.java
+ controlsAppium.Label
