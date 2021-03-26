@@ -1,7 +1,7 @@
 controlsAppium/TextBox.java
  controlsAppium.TextBox
-factoryDevices/FactoryDevices.java
- factoryDevices.FactoryDevices
+activities/SetAlarmActivity.java
+ activities.SetAlarmActivity
 factoryBrowser/IBrowser.java
  factoryBrowser.IBrowser
 controlsWeb/AlertControl.java
@@ -14,8 +14,8 @@ factoryBrowser/Edge.java
  factoryBrowser.Edge
 controlsAppium/Button.java
  controlsAppium.Button
-pomPages/CenterSection.java
- pomPages.CenterSection
+controlsAppium/Label.java
+ controlsAppium.Label
 controlsWeb/Button.java
  controlsWeb.Button
 controlsWeb/TextBox.java
@@ -24,39 +24,41 @@ factoryDevices/Android.java
  factoryDevices.Android
 factoryDevices/WindowsPhone.java
  factoryDevices.WindowsPhone
-pomPages/LeftSection.java
- pomPages.LeftSection
+factoryDevices/IDevices.java
+ factoryDevices.IDevices
 factoryBrowser/FireFox.java
  factoryBrowser.FireFox
 sessionAppium/Session.java
  sessionAppium.Session
-pomPages/LoginModal.java
- pomPages.LoginModal
+factoryBrowser/BrowserStack.java
+ factoryBrowser.BrowserStack
 controlsAppium/CheckBox.java
  controlsAppium.CheckBox
-pomPages/MainPage.java
- pomPages.MainPage
+controlsWeb/Control.java
+ controlsWeb.Control
 factoryBrowser/FactoryBrowser.java
  factoryBrowser.FactoryBrowser
 helpers/CompararJsons.java
  helpers.CompararJsons
-pomPages/MenuSection.java
- pomPages.MenuSection
+controlsWeb/Label.java
+ controlsWeb.Label
 factoryDevices/IOS.java
  factoryDevices.IOS
 sessionWeb/Session.java
  sessionWeb.Session
 factoryBrowser/Chrome.java
  factoryBrowser.Chrome
-tests/Ej4UI.java
- tests.Ej4UI
-controlsWeb/Label.java
- controlsWeb.Label
-controlsWeb/Control.java
- controlsWeb.Control
-factoryBrowser/BrowserStack.java
- factoryBrowser.BrowserStack
-factoryDevices/IDevices.java
- factoryDevices.IDevices
-controlsAppium/Label.java
- controlsAppium.Label
+factoryDevices/FactoryDevices.java
+ factoryDevices.FactoryDevices
+activities/MainActivity.java
+ activities.MainActivity
+tests/Ej4.java
+ tests.Ej4
+runner/Ej1.java
+ runner.Ej1
+pages/MainPage.java
+ pages.MainPage
+pages/PricipalPage.java
+ pages.PricipalPage
+tests/Ej2.java
+ tests.Ej2

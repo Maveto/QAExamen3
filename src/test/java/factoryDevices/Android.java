@@ -15,8 +15,8 @@ public class Android implements IDevices{
 
         capabilities.setCapability("deviceName", "Galaxy J8");
         capabilities.setCapability("platformVersion", "10");
-        capabilities.setCapability("appPackage", "com.samsung.android.app.contacts");
-        capabilities.setCapability("appActivity", "com.samsung.android.contacts.contactslist.PeopleActivity");
+        capabilities.setCapability("appPackage", "com.sec.android.app.clockpackage");
+        capabilities.setCapability("appActivity", ".ClockPackage");
         capabilities.setCapability("platformName", "Android");
 
         AppiumDriver driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub/"), capabilities);
